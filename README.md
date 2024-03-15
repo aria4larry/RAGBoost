@@ -1,2 +1,2 @@
 # RAGBoost
-Practical methods that make RAG system generate high quality results.
+Practical methods that makes RAG system generate high quality results.
